@@ -1,5 +1,7 @@
 # 鼠标连点器 (auto_clicker)
 
+> 仓库：<https://gitee.com/siwpan/auto_clicker> ｜ 许可：MIT（见 [LICENSE](LICENSE)）
+
 一个用 Python 写的 GUI 鼠标连点器。**已做模块化拆分**，点击引擎、热键、界面各司其职，方便维护和二次开发。
 
 ## 功能
